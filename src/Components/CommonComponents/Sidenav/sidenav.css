@@ -1,0 +1,7 @@
+.sidenav-container
+{
+    display :flex;
+    background-color: #fff;
+    height: 945px;
+    /* padding-left: 10px; */
+}
